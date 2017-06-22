@@ -1,0 +1,162 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div#todosite{
+    background-color:aqua;
+    width: 1200px;
+    height: 1000px;
+    margin: auto;
+    border: solid blue 2px;
+}
+
+div#cabecalho{
+    height: 100px;
+    border-bottom: solid 2px blue;
+}
+
+div#cabecalho header h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: Arial;
+    font-weight: bold;
+    color:#fff;
+    text-shadow: 0px 3px 0px #b2a98f,
+        0px 14px 10px rgba(0,0,0,0.15),
+        0px 24px 2px rgba(0,0,0,0.1),
+        0px 34px 30px rgba(0,0,0,0.1);
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    color:blueviolet;
+    text-shadow: 0px 3px 0px #b2a98f,
+        0px 14px 10px rgba(0,0,0,0.15),
+        0px 24px 2px rgba(0,0,0,0.1),
+        0px 34px 30px rgba(0,0,0,0.1);
+}
+
+div#conteudo{
+    height:850px;
+}
+
+/*---------------  Menus  -------------*/
+
+div#menus{
+    width: 150px;
+    height:100%;
+    float: left;
+}
+
+div#menus nav ol{
+    text-align: center;
+    /*margin-left: 30px;*/
+    margin-top: 12px;
+}
+
+div#menus nav ol li{
+    list-style-type: none;
+    font-size:20px;
+}
+
+div#menus nav ol li a{
+    text-decoration: none;
+    color: blueviolet;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color: blueviolet;
+    text-shadow: 0px 3px 0px #b2a98f,
+        0px 2px 2px rgba(0,0,0,0.15),
+        0px 2px 2px rgba(0,0,0,0.1),
+        0px 2px 2px rgba(0,0,0,0.1);
+}
+
+div#menus nav ol li a:hover{
+    text-decoration: underline;
+    background-color:white;
+    color:chocolate;
+}
+
+/*--------------- Fim Menus ----------------*/
+
+/*------------- Central ------------*/
+div#central{
+    float: right;
+    width:1050px;
+    height: 100%;
+}
+/*------------- Fim Central ------------*/
+
+div#rodape{
+    height: 50px;
+    border-top: solid 2px blue;
+}
+
+table#login{
+    background-color: bisque;   
+    margin: auto;
+    margin-top: 100px;
+}
+
+table{
+    background-color: bisque;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+
+td{
+    padding: 5px;
+}
+tr.linha-especial-table{
+    background-color: tomato;
+    color: white;
+    font-weight: bold;
+}
+
+/*
+form#formAlteraUsuario{
+    background-color: bisque;
+    margin: auto;
+    width: 400px;
+    margin-top: 60px;
+    padding: 20px;
+    border: 2px solid violet;
+    border-radius: 20px;
+}
+*/
+form#formUsuario{
+    background-color: bisque;
+    margin: auto;
+    width: 400px;
+    margin-top: 60px;
+    padding: 20px;
+    border: 2px solid violet;
+    border-radius: 20px;
+}
+
+label{
+    font-family: Arial;
+    font-size: 16px;
+    text-shadow: .5px .5px .5px blueviolet;
+    font-weight:bold;
+}
+
+input {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+input.botao{
+    margin-top: 20px;
+    margin-left: 125px;
+}

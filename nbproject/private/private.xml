@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gustavo%20Primolan/Documents/NetBeansProjects/ProjetoInterdisciplinar3/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Gustavo%20Primolan/Documents/NetBeansProjects/ProjetoInterdisciplinar3/src/java/br/com/projeto/javabean/model/BairroModel.java</file>
+            <file>file:/C:/Users/Gustavo%20Primolan/Documents/NetBeansProjects/ProjetoInterdisciplinar3/web/WEB-INF/tags/listaUsuariosTablePaginada.tag</file>
+            <file>file:/C:/Users/Gustavo%20Primolan/Documents/NetBeansProjects/ProjetoInterdisciplinar3/web/WEB-INF/tags/verificaSessao.tag</file>
+            <file>file:/C:/Users/Gustavo%20Primolan/Documents/NetBeansProjects/ProjetoInterdisciplinar3/src/java/br/com/projeto/servlets/controller/Bairro.java</file>
+            <file>file:/C:/Users/Gustavo%20Primolan/Documents/NetBeansProjects/ProjetoInterdisciplinar3/web/WEB-INF/tags/usuarioLogado.tag</file>
+            <file>file:/C:/Users/Gustavo%20Primolan/Documents/NetBeansProjects/ProjetoInterdisciplinar3/web/WEB-INF/tags/dataHoje.tag</file>
+            <file>file:/C:/Users/Gustavo%20Primolan/Documents/NetBeansProjects/ProjetoInterdisciplinar3/web/WEB-INF/tags/listaBairrosTablePaginada.tag</file>
+        </group>
+    </open-files>
+</project-private>
